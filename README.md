@@ -6,4 +6,5 @@ Instructions of the game are written on the gameboard itself. You are expected t
 
 `Expected number of moves : 7`
 
-Have fun!!
+refer to the youtube channel for demonstration:
+https://youtu.be/6WPouxSBjYE
